@@ -1,0 +1,3 @@
+<hibernate-configuration>
+<session-factory>
+    <property name="connection.driver_class">org.postgr
